@@ -6,25 +6,27 @@ title: Home
 		<article class="post">
 			{% include post-heading.html post=post %}
 			<div class="image">
-				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+				<a href="{{ post.url | absolute_url }}">
+					<img src="{{ site.baseurl }}/assets/posts/{{ post.title }}/{{ post.featured_image }}" alt="{{ post.title }}">
+				</a>
 			</div>
 
 			{{ post.excerpt }}
 
-			<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+			<p><a class="button" href="{{ post.url | absolute_url }}">Lees verder</a></p>
 		</article>
 	{% endfor %}
 
 	{% if paginator.total_pages > 1 %}
 		<div class="pagination">
 			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&lt; Nieuwere recepten</a>
 			{% endif %}
 
-			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+			<span class="page_number ">{{ paginator.page }} van {{ paginator.total_pages }}</span>
 
 			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
+				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">oudere recepten &gt;</a>
 			{% endif %}
 		</div>
 	{% endif %}

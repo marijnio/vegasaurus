@@ -1,18 +1,16 @@
 ---
-title: Recipes
+title: Recepten
 image_view: true
 ---
-<h1>Recipes</h1>
-
-
+<h1>Recepten</h1>
 
 {% if page.image_view %}
 	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
-				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-					<a href="{{ site.baseurl }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+				<div class="recipe" style="background-image: url('{{ site.baseurl }}/assets/posts/{{ recipe.title }}/{{ recipe.featured_image }}')">
+					<a href="{{ recipe.url | absolute_url }}"><span>{{ recipe.title }}</span></a>
 				</div>
 			{% endfor %}
 		</div>

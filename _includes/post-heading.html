@@ -1,13 +1,13 @@
 {% if include.post_page %}
 	<div class="take-me">
-		<a class="button" href="#recipe">Jump to recipe</a>
+		<a class="button" href="#recipe">Door naar recept</a>
 	</div>
 {% endif %}
 <h1>
-	<a href="{{ include.post.url }}">
+	<a href="{{ include.post.url | absolute_url }}">
 		{{ include.post.title }}
 	</a>
 </h1>
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
-	{{ include.post.date | date: "%B %-d, %Y" }}
+	{{ include.post.date | date: "%d-%m-%Y" }}
 </time>

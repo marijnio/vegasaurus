@@ -5,15 +5,20 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
+		<!-- Mobile web app tags -->
+		<link rel="manifest" href="/manifest.json">
+		<meta name="theme-color" content="#DFE3E6">
+
 		{% seo %}
 		{% feed_meta %}
 
-		<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">
+		<link href="//fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
 		<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
 		{% if page.print_stylesheet %}
 			<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
 		{% endif %}
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+		<link rel="icon" type="image/svg+xml" sizes="any" href="{{ site.baseurl }}/images/logo.svg">
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 			<script>
@@ -28,12 +33,10 @@
 		{% include navigation.html %}
 		<header>
 			<a href="{{site.baseurl }}/">
-				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="180" alt="logo">
+				<img src="{{ site.baseurl }}/images/logo.svg" width="140" alt="logo">
 			</a>
-			<div>
-				<a class="editor-link btn" href="cloudcannon:collections/_data/company_details.yml" class="btn"><strong>&#9998;</strong> Edit Logo</a></div>
+			<h1>{{ site.purpose }}</h1>
 		</header>
-			
 		<div class="container main-content">
 			<section class="content">{{ content }}</section>
 			{% include sidebar.html %}
@@ -41,7 +44,7 @@
 		<footer>
 			<div class="container">
 				<hr>
-				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
+				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. Alle rechten voorbehouden.
 			</div>
 		</footer>
 	</body>

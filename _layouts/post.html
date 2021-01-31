@@ -4,7 +4,7 @@ layout: default
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 	<div class="image">
-		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+		<img src="{{ site.baseurl }}/assets/posts/{{ page.title }}/{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
 	<div class="recipe-body">
@@ -19,12 +19,12 @@ layout: default
 
 	<div class="recipe-contents">
 		<div class="ingredients">
-			<h2>Ingredients</h2>
+			<h2>Ingrediënten</h2>
 			{{ page.recipe.ingredients_markdown | markdownify }}
 		</div>
 
 		<div class="directions">
-			<h2>Directions</h2>
+			<h2>Methode</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
@@ -33,15 +33,14 @@ layout: default
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
-		<a class="instagram" href="https://instagram.com">{% include social-icon.html icon="Instagram" %}</a>
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
 		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>
 
 	<div class="cta">
-		<h2>More delicious recipes</h2>
-		<p>This is one of the many fantastic recipes available on this blog</p>
-		<div class="button"><a href="{{ site.baseurl }}/recipes">Check out more recipes</a></div>
+		<h2>Meer heerlijke recepten</h2>
+		<p>Dit is een van de vele fantastische recepten beschikbaar op deze blog</p>
+		<div class="button"><a href="{{ '/recipes' | prepend: site.baseurl }}">Bekijk meer recepten</a></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}
 		<div id="disqus_thread"></div>
@@ -63,7 +62,7 @@ layout: default
 </article>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
+<script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
 <script>
 	$(function() {
 		$('.post img').imgPin();

@@ -1,31 +1,33 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
-baseurl:
-google_analytics_key:
+title: Vegasaurus
+name: Vegasaurus
+purpose: Vegan Recepten
+url: "https://marijnio.github.io/vegasaurus/"
+baseurl: 
+google_analytics_key: UA-90698629-2
 newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Plantaardige recepten.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Vegasaurus
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://github.com/marijnio
 
 # -----
 # Build
 
 timezone: Etc/UTC
 
-paginate: 10
+paginate: 7
 paginate_path: "/:num/"
 permalink: pretty
 
@@ -75,7 +77,6 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
   - Pinterest
