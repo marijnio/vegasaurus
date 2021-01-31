@@ -5,7 +5,7 @@ title: Vegasaurus
 name: Vegasaurus
 purpose: Vegan Recepten
 url: "https://marijnio.github.io"
-baseurl: "vegasaurus"
+baseurl: '/vegasaurus'
 google_analytics_key: UA-90698629-2
 newsletter_action:
 disqus_shortname:
