@@ -1,6 +1,6 @@
 ---
 date: 2019-03-31
-title: Gebakken Indische Tempeh
+title: Gemarineerde Tempeh
 categories:
   - Vleesvervangers
 featured_image: sliced-tempeh.jpg

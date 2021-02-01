@@ -1,6 +1,6 @@
 ---
 date: 2019-05-18
-title: Vegetarische Chili
+title: Bonenchili
 categories:
   - Hoofdgerechten
 featured_image: bonen-met-kruiden.jpg

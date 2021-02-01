@@ -1,6 +1,6 @@
 ---
 date: 2019-06-15
-title: Kruidige Linzendal
+title: Linzendal
 categories:
   - Hoofdgerechten
 featured_image: linzendal.jpg

@@ -1,6 +1,6 @@
 ---
 date: 2019-04-29
-title: Vegan bananenbrood met appel
+title: Bananenbrood met appel
 categories:
   - Baksels
 featured_image: bananen.jpg
