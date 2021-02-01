@@ -1,37 +1,31 @@
 ---
 date: 2020-03-14
-title: Zachte Bananenpannenkoekjes
+title: Bananenpannenkoeken
 categories:
   - Ontbijtjes
 featured_image: bananenpannenkoekjes-1.jpg
 recipe:
-  servings: 12 pannenkoekjes
+  servings: 12 pannenkoeken
   prep: 10 minuten
   cook: 20 minuten
   ingredients_markdown: |-
-    **Voor het beslag**
     
     * 80 g havervlokken
     * 80 g bloem of volkorenmeel
     * 250 ml plantaardige melk
     * 1 tl bakpoeder
-    * 2 middelgrote rijpe bananen
+    * 1 grote, rijpe banaan (of 2 kleine)
     * 2 el chiazaden
     * 1/2 tl zout
     * 1/4 tl vanille extract
-    
-    **Voor het bakken**
-    
-    * Plantaardige olie
   
   directions_markdown: |-
     
-    1. Meng alle ingrediënten met een blender.
-    2. Voeg nog een beetje melk toe tot het beslag dik maar glad is.
-    3. Verwarm een pan met een beetje olie.
-    4. Schep het belag in de pan in 3-4 kleine eilandjes.
-    5. Draai de pannenkoekjes om als de bovenkant een beetje droog wordt.
-    6. Stapel de pannenkoekjes op een warm bord en herhaal tot het beslag op is.
+    1. Meng alle ingrediënten in een blender.
+    2. Verwarm een pan met een beetje olie.
+    3. Schep het belag in de pan in 3-4 eilandjes.
+    4. Draai de pannenkoeken om als de bovenkant een beetje droog wordt.
+    5. Stapel de pannenkoeken op een warm bord en ga door tot het beslag op is.
 
 ---
 
