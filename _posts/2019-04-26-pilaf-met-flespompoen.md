@@ -1,6 +1,6 @@
 ---
 date: 2019-04-26
-title: Iraanse Pilaf met Flespompoen
+title: Pilaf met Flespompoen
 categories:
   - Hoofdgerechten
 featured_image: iraanse-pilaf.jpg
