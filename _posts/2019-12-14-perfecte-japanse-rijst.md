@@ -1,8 +1,8 @@
 ---
 date: 2019-12-14
-title: Perfecte Japanse Rijst
+title: Japanse Rijst
 categories:
-  - Hoofdgerechten
+  - Basisvoedsel
 featured_image: japanse-rijst.jpg
 recipe:
   servings: 2 à 3 porties
