@@ -1,5 +1,5 @@
 ---
-date: 2020-02-23
+date: 2021-03-01
 title: Mujaddara
 categories:
   - Hoofdgerechten
