@@ -50,6 +50,8 @@ recipe:
 
 ---
 
-Warm en hartig gerecht met linzen, rijst en gebakken uien. Dit gerecht is zó belangrijk binnen de Arabische keuken dat men zegt dat een man met honger zijn ziel zou verkopen voor een bord mujadarra.
+dit warme, hartige gerecht uit het Midden-Oosten zal je absoluut verbazen. We zijn dol op het eten van dit gerecht en hebben er vaak zin in. Het is niet alleen heerlijk, het is ook heel gemakkelijk te maken en het is erg goedkoop.
+
+Ik kan iedereen (vegetarisch of niet) absoluut aanbevelen om dit gerecht uit te proberen. Sterker nog, in de Arabische landen heerst een gezegde dat ieder mens met honger zijn ziel zou verkopen voor een bord mujadarra.
 
 Ik gebruik in dit recept hele kruiden voor de smaak, maar je kunt deze zonder problemen vervangen door de gemalen varianten.
