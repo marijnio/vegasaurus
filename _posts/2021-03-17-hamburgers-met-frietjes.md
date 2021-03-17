@@ -3,7 +3,7 @@ date: 2021-03-17
 title: Hamburgers met Frietjes
 categories:
   - Hoofdgerechten
-featured_image: hamburger-met-frietjes.jpg
+featured_image: hamburgers-met-frietjes.jpg
 recipe:
   servings: 4 personen
   prep: 5 minuten
