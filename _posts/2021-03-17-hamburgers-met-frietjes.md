@@ -10,27 +10,27 @@ recipe:
   cook: 30 minuten
   ingredients_markdown: |-
 
-750 g friet
-4 burgerbroodjes
-4 vegan burgers
-4 plakken vegan kaas
-1 grote gele ui
-1 grote tomaat
-1 krop ijsbergsla
-plakjes augurken
-mosterd
-ketchup
+    * 750 g friet
+    * 4 burgerbroodjes
+    * 4 vegan burgers
+    * 4 plakken vegan kaas
+    * 1 grote gele ui
+    * 1 grote tomaat
+    * 1 krop ijsbergsla
+    * plakjes augurken
+    * mosterd
+    * ketchup
 
   directions_markdown: |-
 
-Bak de friet zoals aangegeven op de verpakking.
-Bak de hamburgers zoals aangegeven op de verpakking. Strooi eventueel wat msg op beide zijden voor extra umami.
-Snijd de gele ui en tomaat horizontaal in hele schijven van ongeveer 3 mm.
-Snijd de sla in reepjes van 1 x 3 cm.
-Snijd de hamburgerbroodjes doormidden schuin en rondom met een koksmes om een gescheurde rand te voorkomen.
-Rooster de helften in een licht ingevette pan.
-Leg de plakken kaas op de hamburgers en doe ze stapsgewijs kort in de magnetron zodat de plakjes goed gesmolten zijn.
-Stapel de burgers als volgt: bodem, burger, kaas, ui, tomaat, saus, sla, augurken, deksel.
+    1. Bak de friet zoals aangegeven op de verpakking.
+    2. Bak de hamburgers zoals aangegeven op de verpakking. Strooi eventueel wat msg op beide zijden voor extra umami.
+    3. Snijd de gele ui en tomaat horizontaal in hele schijven van ongeveer 3 mm.
+    4. Snijd de sla in reepjes van 1 x 3 cm.
+    5. Snijd de hamburgerbroodjes doormidden schuin en rondom met een koksmes om een gescheurde rand te voorkomen.
+    6. Rooster de helften in een licht ingevette pan.
+    7. Leg de plakken kaas op de hamburgers en doe ze stapsgewijs kort in de magnetron zodat de plakjes goed gesmolten zijn.
+    8. Stapel de burgers als volgt: bodem, burger, kaas, ui, tomaat, saus, sla, augurken, deksel.
 
 ---
 
