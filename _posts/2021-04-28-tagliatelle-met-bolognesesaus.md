@@ -32,17 +32,17 @@ recipe:
     5. Voeg de rest van de wijn toe en roer door.
     6. Voeg de tomatensaus, de tomatenpasta en de gepelde tomaten toe.
     7. Voeg een klein glas water toe en laat de pan een uurtje op lage temperatuur zachtjes koken. Roer regelmatig om te voorkomen dat de bodem aanbrandt.
-    8. Voeg het mononatriumglutamaat toe en breng de saus verder op smaak met zout en peper. Laat rustig verder koken tot de saus is ingedikt.
+    8. Voeg de mononatriumglutamaat toe en breng de saus verder op smaak met zout en peper. Laat rustig verder koken tot de saus is ingedikt.
     9. Kook de pasta af zoals aangegeven op de verpakking. Let op! Bewaar 200 ml water van het kookvocht en voeg deze toe aan de saus.
     10. Voeg de pasta toe aan de pan met de saus en verhit deze terwijl je de saus erdoorheen roert.
     11. Serveer de pasta met een tang op de borden met een draaiende beweging, leg er wat extra saus bovenop en bestrooi met de kaas.
 
 ---
 
-Elke keer als je bolognesesaus serveert met spaghetti sterft er een Italiaan. Maak dus je bolognese met tagliatelle. Zonder geintjes is het zo dat de saus beter blijft hangen aan brede pasta.
+Elke keer als je bolognesesaus serveert met spaghetti sterft er een Italiaan. Maak dus je bolognese met een brede pasta, zoals tagliatelle of fettuccine. Zonder geintjes is het heel ongebruikelijk in Italië om spaghetti met bolognese te eten omdat de saus er te makkelijk vanaf glijdt.
 
-Met echt vlees moet de saus lang opstaan zodat het vlees goed mals wordt. In ons geval hoeft dat niet, maar het helpt wel om de smaak te verbeteren.
+Met echt vlees moet de saus lang opstaan zodat het vlees goed mals wordt. In ons geval hoeft dat niet, maar het helpt wel om de smaak te ontwikkelen.
 
-Ik voeg er mononatriumglutamaat aan toe omdat dit gerecht draait om umami, maar wat mis loopt door het gebruik van het plantaardige gehakt en kaas. Het vlees neemt normaal umami mee. Zelfs de parmezaanse kaas staat bekend om zijn sterke umami smaak!
+Ik voeg er mononatriumglutamaat aan toe omdat dit gerecht draait om umami, maar wat mis loopt door het gebruik van het plantaardige gehakt en kaas. Het vlees neemt normaal umami mee. Zelfs de parmezaanse kaas staat bekend om het hebben van een sterke umami smaak.
 
 Dit is een ruime hoeveelheid voor 4 personen en ik maak het meestal voor twee keer. Let er dan op dat je de helft van de pasta kookt en de helft van de saus in een apart bakje schept.
