@@ -32,10 +32,9 @@ recipe:
     6. Voeg stapsgewijs de tomatensaus, de tomatenpasta en de gepelde tomaten toe.
     7. Voeg een klein glas water toe en laat de pan een paar uur op lage temperatuur zachtjes koken (Minstens een uur). Roer af en toe om te voorkomen dat de saus aanbrandt.
     8. Breng de saus op smaak met zout en peper. Voeg de sojamelk toe als je dat wilt.
-    9. Kook de pasta af zoals aangegeven op de verpakking.
-    10. Let op! Bewaar een kop van het kookvocht en voeg deze toe aan de saus. Deze zou inmiddels niet te waterig meer moeten zijn.
-    11. Voeg de pasta toe aan de saus en verhit deze terwijl je de saud erdoorheen roert.
-    12. Serveer door de pasta op het bord te draaien, wat extra saus eroverheen te leggen en bestrooi met de kaas.
+    9. Kook de pasta af zoals aangegeven op de verpakking. Let op! Bewaar een kop van het kookvocht en voeg deze toe aan de saus. Deze zou inmiddels niet te waterig meer moeten zijn.
+    10. Voeg de pasta toe aan de saus en verhit deze terwijl je de saud erdoorheen roert.
+    11. Serveer door de pasta op het bord te draaien, wat extra saus eroverheen te leggen en bestrooi met de kaas.
 
 ---
 
