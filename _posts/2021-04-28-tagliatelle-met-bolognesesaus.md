@@ -6,8 +6,8 @@ categories:
 featured_image: tagliatelle-bolognese.jpg
 recipe:
   servings: 2 porties
-  prep: 1 uur
-  cook: 20 minuten
+  prep: 15 minuten
+  cook: 120 minuten
   ingredients_markdown: |-
     * Extra vergine olijfolie
     * 1 grote gele ui, fijngehakt
