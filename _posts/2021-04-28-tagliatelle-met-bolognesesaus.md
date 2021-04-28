@@ -1,6 +1,6 @@
 ---
 date: 2021-04-28
-title: Tagliatelle met Bolognesaus
+title: Tagliatelle met Bolognesesaus
 categories:
   - Hoofdgerechten
 featured_image: tagliatelle-bolognese.jpg
@@ -39,6 +39,6 @@ recipe:
 
 ---
 
-Elke keer als je bolognesesaus serveert met spaghetti sterft er een Italiaan. Maak dus je bolognese met tagliatelle. Zonder geintjes blijft de saus beter hangen aan brede pasta.
+Elke keer als je bolognesesaus serveert met spaghetti sterft er een Italiaan. Maak dus je bolognese met tagliatelle. Zonder geintjes is het zo dat de saus beter blijft hangen aan brede pasta.
 
 Met echt vlees moet de saus lang opstaan zodat het vlees goed mals wordt. In ons geval hoeft dat niet, maar het helpt wel om de smaak te verbeteren.
