@@ -9,17 +9,17 @@ recipe:
   prep: 1 uur
   cook: 20 minuten
   ingredients_markdown: |-
+    * Extra vergine olijfolie
     * 1 grote gele ui, fijngehakt
-    * 2 stengels bleekselderij, in blokjes gesneden
     * 2 middelgrote wortelen, in blokjes gesneden
+    * 2 stengels bleekselderij, in blokjes gesneden
+    * 1 glas rode of witte wijn (optie)
     * 500 g plantaardig gehakt
     * 1 l passata tomatensaus
-    * 400 g gepelde tomaten
     * 150 g tomatenpuree
-    * Extra vergine olijfolie
-    * 1 glas rode of witte wijn (optie)
-    * 230 ml sojamelk
+    * 400 g gepelde tomaten
     * Zout en peper
+    * Een glas sojamelk (optie)
     * Wat geraspte plantaardige parmezaanse kaas
 
   directions_markdown: |-
@@ -31,8 +31,8 @@ recipe:
     5. Voeg de rest van de wijn toe en roer nog een beetje.
     6. Voeg stapsgewijs de tomatensaus, de tomatenpasta en de gepelde tomaten toe.
     7. Voeg een klein glas water toe en laat de pan een paar uur op lage temperatuur zachtjes koken (Minstens een uur). Roer af en toe om te voorkomen dat de saus aanbrandt.
-    8. Kook de pasta af zoals aangegeven op de verpakking.
-    9. Breng de saus op smaak met zout en peper.
+    8. Breng de saus op smaak met zout en peper. Voeg de sojamelk toe als je dat wilt.
+    9. Kook de pasta af zoals aangegeven op de verpakking.
     10. Let op! Bewaar een kop van het kookvocht en voeg deze toe aan de saus. Deze zou inmiddels niet te waterig meer moeten zijn.
     11. Voeg de pasta toe aan de saus en verhit deze terwijl je de saud erdoorheen roert.
     12. Serveer door de pasta op het bord te draaien, wat extra saus eroverheen te leggen en bestrooi met de kaas.
